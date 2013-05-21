@@ -20,7 +20,8 @@ require 'nokogiri'
 ```
 网上的给了一个例子但是用不了，原来是需要一个东西来打开一个url获取一个html，所以要加入open-uri
 
-# deleteSomeTypeFile.rb一个能删除当前目录下指定文件名后缀的脚本
+# deleteSomeTypeFile.rb
+一个能删除当前目录下指定文件名后缀的脚本
 
 `ruby deleteSomeTypeFile.rb png`
 
