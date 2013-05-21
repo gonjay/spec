@@ -23,4 +23,5 @@ require 'nokogiri'
 # deleteSomeTypeFile.rb一个能删除当前目录下指定文件名后缀的脚本
 
 `ruby deleteSomeTypeFile.rb png`
+
 即可删除当前目录下所有后缀名为png的文件，灰常好用！！
